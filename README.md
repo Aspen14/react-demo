@@ -10,3 +10,9 @@ C#
 
 Database
 SQL
+
+
+Project Spin Up for https://localhost:44462/
+cd ~react-demo\my-new-app
+dotnet run my-new-app
+wait for host to load
