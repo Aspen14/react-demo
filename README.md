@@ -15,7 +15,12 @@ SQL
 Project Spin Up for https://localhost:44462/
 cd ~react-demo\my-new-app
 dotnet run my-new-app
-wait for host to load
+go to https://localhost:7223 and wait for host to load
+
+Troubleshooting
+If page does not load data make sure the terminal with the webpack has complied successfully. 
+
+(https://github.com/jdornquast/react-demo/blob//image.jpg?raw=true)
 
 
 Github Actions:
