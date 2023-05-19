@@ -17,5 +17,8 @@ cd ~react-demo\my-new-app
 dotnet run my-new-app
 wait for host to load
 
+
 Github Actions:
 https://dev.to/dyarleniber/setting-up-a-ci-cd-workflow-on-github-actions-for-a-react-app-with-github-pages-and-codecov-4hnp
+
+
