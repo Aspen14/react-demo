@@ -1,5 +1,5 @@
 # react-demo
-A demo to build technical skills in React.js, C#, ASP.net, and SQl. 
+#### A demo to build technical skills in React.js, C#, ASP.net, and SQl. 
 
 Front-end UI
 React.js
@@ -12,17 +12,19 @@ Database
 SQL
 
 
-Project Spin Up for https://localhost:44462/
+#### Project Spin Up:
+
 cd ~react-demo\my-new-app
 dotnet run my-new-app
-go to https://localhost:7223 and wait for host to load
+go to https://localhost:7223 and wait for host to load https://localhost:44462/
 
-Troubleshooting 
+#### Troubleshooting: 
 
-![If page does not load data make sure the terminal with the webpack has complied successfully. ](/my-new-app/images/readme-correct-spin-up.PNG)
+If page does not load data make sure the terminal with the webpack has complied successfully. 
 
+![correct view](/my-new-app/images/readme-correct-spin-up.PNG)
 
-Github Actions:
+#### Github Actions:
 https://dev.to/dyarleniber/setting-up-a-ci-cd-workflow-on-github-actions-for-a-react-app-with-github-pages-and-codecov-4hnp
 
 
