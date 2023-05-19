@@ -17,10 +17,9 @@ cd ~react-demo\my-new-app
 dotnet run my-new-app
 go to https://localhost:7223 and wait for host to load
 
-Troubleshooting
-If page does not load data make sure the terminal with the webpack has complied successfully. 
+Troubleshooting 
 
-![alt text](https://github.com/Aspen14/react-demo/blob/link-to-image/my-new-app/images/readme-correct-spin-up.PNG)
+![If page does not load data make sure the terminal with the webpack has complied successfully. ](/my-new-app/images/readme-correct-spin-up.PNG)
 
 
 Github Actions:
