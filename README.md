@@ -20,7 +20,7 @@ go to https://localhost:7223 and wait for host to load
 Troubleshooting
 If page does not load data make sure the terminal with the webpack has complied successfully. 
 
-(https://github.com/jdornquast/react-demo/blob//image.jpg?raw=true)
+![alt text](https://github.com/Aspen14/react-demo/blob/link-to-image/my-new-app/images/readme-correct-spin-up.PNG)
 
 
 Github Actions:
