@@ -22,7 +22,7 @@ go to https://localhost:7223 and wait for host to load https://localhost:44462/
 
 If page does not load data make sure the terminal with the webpack has complied successfully. 
 
-![correct view](/my-new-app/images/readme-correct-spin-up.PNG)
+![correct view](/my-new-app/documentation_images/readme-correct-spin-up.PNG)
 
 #### Github Actions:
 https://dev.to/dyarleniber/setting-up-a-ci-cd-workflow-on-github-actions-for-a-react-app-with-github-pages-and-codecov-4hnp
