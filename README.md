@@ -19,7 +19,7 @@ go to https://localhost:7223 and wait for host to load and redirect
 
 ## Troubleshooting 
 
-![If page does not load data make sure the terminal with the webpack has complied successfully. ](/my-new-app/images/readme-correct-spin-up.PNG)
+![If page does not load data make sure the terminal with the webpack has complied successfully.](my-new-app/documentation_images/readme-correct-spin-up.PNG)
 
 ## Planning for future improvments
 
