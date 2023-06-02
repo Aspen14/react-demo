@@ -1,5 +1,5 @@
 # react-demo
-## A demo to build technical skills in React.js, C#, ASP.net, and SQl. 
+## A for fun project to build technical skills in React.js, C#, ASP.net, and SQl. 
 example project being worked https://www.youtube.com/watch?v=4RKuyp_bOhY&t=1290s
 
 ### Front-end UI
