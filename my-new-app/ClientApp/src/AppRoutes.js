@@ -1,18 +1,14 @@
-import { Counter } from "./components/Counter";
 import { FetchData } from "./components/FetchData";
 import { Home } from "./components/Home";
 import RankItemsContainer from "./components/RankItemsContainer";
 import MovieImageArr from "./components/MovieImages.js";
 import AlbumImageArr from "./components/AlbumImages";
+import { Info } from "./components/Info";
 
 const AppRoutes = [
   {
     index: true,
     element: <Home />
-  },
-  {
-    path: '/counter',
-    element: <Counter />
   },
   {
     path: '/fetch-data',
@@ -25,6 +21,10 @@ const AppRoutes = [
   {
     path: '/rank-albums',
     element: <RankItemsContainer dataType={2} imgArr={AlbumImageArr}/>
+  },
+  {
+    path: '/info',
+    element: < Info />
   }
 ];
 

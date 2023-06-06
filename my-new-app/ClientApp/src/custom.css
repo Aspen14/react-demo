@@ -1,4 +1,7 @@
-/* Provide sufficient contrast against white background */
+body{
+  background: #272640;
+}
+
 a {
   color: #0366d6;
 }
@@ -17,6 +20,14 @@ main{
   display: flex;
   align-items: center;
   flex-direction: column;
+}
+
+*{
+  color: #B1B1B1;
+}
+
+.table-striped > tbody > tr:nth-of-type(odd) > *{
+  color: #515151;
 }
 
 .items-not-ranked{

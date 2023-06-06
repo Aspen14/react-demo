@@ -2,6 +2,11 @@
   white-space: normal;
   text-align: center;
   word-break: break-all;
+  color: #F7F7F7;
+}
+
+.nav-item a{
+  color: #9E9E9E !important;
 }
 
 html {
