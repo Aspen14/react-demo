@@ -1,0 +1,24 @@
+﻿@use "../defaultStyling.scss" as default;
+
+a.navbar-brand {
+	white-space: normal;
+	text-align: center;
+	word-break: break-all;
+	color: default.$light_gray;
+}
+.nav-item {
+	a {
+		color:  default.$med_gray !important;
+	}
+}
+html {
+	font-size: 14px;
+}
+.box-shadow {
+	box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+@media (min-width: 768px) {
+	html {
+		font-size: 16px;
+	}
+}
