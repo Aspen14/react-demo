@@ -3,7 +3,7 @@
 example project being worked https://www.youtube.com/watch?v=4RKuyp_bOhY&t=1290s
 
 ### Front-end UI
-React.js
+React with Typescript
 
 ### Service level 
 ASP.net 6 

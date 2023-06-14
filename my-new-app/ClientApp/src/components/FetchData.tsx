@@ -1,6 +1,15 @@
 import React, { Component } from 'react';
 
-export class FetchData extends Component {
+interface IProps {
+}
+
+interface IState {
+  forecasts: [];
+  loading: boolean;
+}
+
+
+export class FetchData extends React.Component<IProps, IState> {
   static displayName = FetchData.name;
 
   constructor(props) {
