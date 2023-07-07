@@ -1,12 +1,12 @@
 # react-demo
-## A for fun project to build technical skills in React.js, C#, ASP.net, and SQl. 
+## A for fun project to build technical skills in React.js, C#, ASP.NET CORE, and SQl. 
 example project being worked https://www.youtube.com/watch?v=4RKuyp_bOhY&t=1290s
 
 ### Front-end UI
 React with Typescript
 
 ### Service level 
-ASP.net 6 
+ASP.NET CORE 6 
 C#
 
 ### Database
